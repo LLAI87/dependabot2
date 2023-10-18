@@ -29,7 +29,7 @@
     "victory": "^36.6.8"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.4.3",
     "autoprefixer": "^10.4.7",
