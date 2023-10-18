@@ -9,7 +9,7 @@ registries:
   npm-github:
     type: npm-registry
     url: https://npm.pkg.github.com
-    token: ${{secrets.MY_GITHUB_PERSONAL_TOKEN}}
+    token: ${{secrets.DEPENDABOT_SECRET}}
     replaces-base: true
 #  npm-npmjs:
 #    type: npm-registry
