@@ -34,4 +34,6 @@ updates:
       - npm-github
     #      - npm-npmjs
     schedule:
-      interval: "weekly"
+      interval: "daily"
+      # Check for npm updates at 9am UTC
+      time: "08:00"
